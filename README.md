@@ -1,2 +1,2 @@
-# CryptoCanvas
-Crypto Canvas is a platform similar to Open Sea, where users can engage in buying, selling, and minting NFTs. 
+# PetCare Hub 
+Pet Care Hub is an online platform that will offer a wide range of pet products and it provides a feature to book appointments with vet in case of emergencies.
